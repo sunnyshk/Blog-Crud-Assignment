@@ -1,6 +1,6 @@
 # Blog-Crud-Assignment
 
-Step 1 - Navigate to the server folder & run the npm install command to install all the required dependencies
+Step 1 - Navigate to the server folder & run the npm install command to install all the required dependencies<br>
 Step 2 - Now run npm run start to run the server
 
 
